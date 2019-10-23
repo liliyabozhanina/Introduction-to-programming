@@ -1,0 +1,18 @@
+#include <iostream>
+// Include ("import") the declarations for the standard I/O stream library
+
+using namespace std;
+// Make names from std (like cout) visible without std::
+// std is the namespace containing the C++ Standard Library
+
+int main()
+{
+    cout << "Hello world!\n";
+    //Insert (<<) the string literal "Hello world\n" into the standard output stream (cout).
+    //\n is the new line character.
+    
+    return 0;
+    // "return 0" indicates that the program should tell the Operating System
+    // that it has completed successfully.
+
+}
