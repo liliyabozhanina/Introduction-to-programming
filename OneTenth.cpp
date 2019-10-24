@@ -4,8 +4,8 @@
   This is true for every hypothetical precision.
   For different precisions (single(float), double(double), extended(long double))
   we obtain different results (approximations).
-  In fact 0.1(10)=0.0001100110011001100.......(2)
-*/
+  In fact 0.1(10)=0.0001100110011001100.......(2)*/
+
 #include <iostream>
 #include <iomanip>
 
