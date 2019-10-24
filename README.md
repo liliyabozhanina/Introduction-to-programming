@@ -1,2 +1,2 @@
-# UP-FMI C++
+# UP-Cpp
 Увод в програмирането/Introduction to programming
