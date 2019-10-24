@@ -1,10 +1,12 @@
-/*This program demonstrates that the decimal number 0.1
-  has an infinite representation in binary and hence
-  can't be represented exactly in a computer.
-  This is true for every hypothetical precision.
-  For different precisions (single(float), double(double), extended(long double))
-  we obtain different results (approximations).
-  In fact 0.1(10)=0.0001100110011001100.......(2)*/
+/*
+   This program demonstrates that the decimal number 0.1
+   has an infinite representation in binary and hence
+   can't be represented exactly in a computer.
+   This is true for every hypothetical precision.
+   For different precisions (single(float), double(double), extended(long double))
+   we obtain different results (approximations).
+   In fact 0.1(10)=0.0001100110011001100.......(2)
+*/
 
 #include <iostream>
 #include <iomanip>
